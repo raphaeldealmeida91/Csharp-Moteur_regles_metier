@@ -1,0 +1,14 @@
+/Users/raphaeldealmeida/Development/Microsoft_NET/RuleEngineApp/bin/Debug/net8.0/RuleEngineApp
+/Users/raphaeldealmeida/Development/Microsoft_NET/RuleEngineApp/bin/Debug/net8.0/RuleEngineApp.deps.json
+/Users/raphaeldealmeida/Development/Microsoft_NET/RuleEngineApp/bin/Debug/net8.0/RuleEngineApp.runtimeconfig.json
+/Users/raphaeldealmeida/Development/Microsoft_NET/RuleEngineApp/bin/Debug/net8.0/RuleEngineApp.dll
+/Users/raphaeldealmeida/Development/Microsoft_NET/RuleEngineApp/bin/Debug/net8.0/RuleEngineApp.pdb
+/Users/raphaeldealmeida/Development/Microsoft_NET/RuleEngineApp/obj/Debug/net8.0/RuleEngineApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/raphaeldealmeida/Development/Microsoft_NET/RuleEngineApp/obj/Debug/net8.0/RuleEngineApp.AssemblyInfoInputs.cache
+/Users/raphaeldealmeida/Development/Microsoft_NET/RuleEngineApp/obj/Debug/net8.0/RuleEngineApp.AssemblyInfo.cs
+/Users/raphaeldealmeida/Development/Microsoft_NET/RuleEngineApp/obj/Debug/net8.0/RuleEngineApp.csproj.CoreCompileInputs.cache
+/Users/raphaeldealmeida/Development/Microsoft_NET/RuleEngineApp/obj/Debug/net8.0/RuleEngineApp.dll
+/Users/raphaeldealmeida/Development/Microsoft_NET/RuleEngineApp/obj/Debug/net8.0/refint/RuleEngineApp.dll
+/Users/raphaeldealmeida/Development/Microsoft_NET/RuleEngineApp/obj/Debug/net8.0/RuleEngineApp.pdb
+/Users/raphaeldealmeida/Development/Microsoft_NET/RuleEngineApp/obj/Debug/net8.0/RuleEngineApp.genruntimeconfig.cache
+/Users/raphaeldealmeida/Development/Microsoft_NET/RuleEngineApp/obj/Debug/net8.0/ref/RuleEngineApp.dll

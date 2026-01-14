@@ -1,0 +1,7 @@
+{
+  "CombineWithAnd": true,
+  "Rules": [
+    { "MemberName": "Age", "Operator": "GreaterThan", "TargetValue": "18" },
+    { "MemberName": "LoyaltyPoints", "Operator": "GreaterThan", "TargetValue": "100" }
+  ]
+}
